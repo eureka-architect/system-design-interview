@@ -26,7 +26,7 @@
 📖 진행 목록
 - Chapter 1: 사용자 수에 따른 규모 확장성
   - 🔗 결과물 공유:
-    - sangjinsu : 링크
+    - sangjinsu : [📌서비스가 커질수록 살아남는 아키텍처: 수직적 vs 수평적 확장 완벽 가이드](https://velog.io/@sangjinsu/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EC%BB%A4%EC%A7%88%EC%88%98%EB%A1%9D-%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%88%98%EC%A7%81%EC%A0%81-vs-%EC%88%98%ED%8F%89%EC%A0%81-%ED%99%95%EC%9E%A5-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
 📌 새로운 결과물이 있으면 자유롭게 PR 또는 Issue를 이용해 추가해주세요! 🎉
 📌 누구나 자유롭게 참여할 수 있습니다! 🚀
