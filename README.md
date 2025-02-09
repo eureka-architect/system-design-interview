@@ -24,7 +24,7 @@
 
 ---
 📖 진행 목록
-- Chapter 1: Scale from Zero to Millions of Users
+- Chapter 1: 사용자 수에 따른 규모 확장성
   - 🔗 결과물 공유:
     - sangjinsu : 링크
 
