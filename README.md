@@ -28,6 +28,7 @@
   - 🔗 결과물 공유:
     - sangjinsu : [📌서비스가 커질수록 살아남는 아키텍처: 수직적 vs 수평적 확장 완벽 가이드](https://velog.io/@sangjinsu/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EC%BB%A4%EC%A7%88%EC%88%98%EB%A1%9D-%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%88%98%EC%A7%81%EC%A0%81-vs-%EC%88%98%ED%8F%89%EC%A0%81-%ED%99%95%EC%9E%A5-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
     - o-songyii: : [github링크](https://github.com/o-songyii/MyLibrary/blob/main/%EA%B0%80%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/1%EC%9E%A5/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1.md)
+    - parkminseok : [1장 - 사용자 수에 따른 규모 확장성](https://github.com/wonbanyama/study/blob/main/%EA%B0%80%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/1%EC%9E%A5/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1.md)
 
 
 📌 새로운 결과물이 있으면 자유롭게 PR 또는 Issue를 이용해 추가해주세요! 🎉
