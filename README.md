@@ -41,11 +41,15 @@
     - o-songyii : [github링크](https://github.com/o-songyii/MyLibrary/blob/main/%EA%B0%80%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/3%EC%9E%A5/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EB%A9%B4%EC%A0%91%20%EA%B3%B5%EB%9E%B5%EB%B2%95.md)
     - parkminseok : [3장 - 시스템 설계 면접 공략법](https://github.com/wonbanyama/study/blob/main/%EA%B0%80%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/3%EC%9E%A5/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EB%A9%B4%EC%A0%91%20%EA%B3%B5%EB%9E%B5%EB%B2%95.md)
     - sangjinsu : [🛠️ 시스템 설계 면접 공략법: 효과적인 접근 방법 🚀](https://velog.io/@sangjinsu/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EB%A9%B4%EC%A0%91-%EA%B3%B5%EB%9E%B5%EB%B2%95-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%EC%A0%91%EA%B7%BC-%EB%B0%A9%EB%B2%95)
+   
+- Chapter 4: 처리율 제한 장치의 설계
+  - 🔗 결과물 공유:
+    - sangjinsu : [🚦 서버 과부하를 막는 처리율 제한 알고리즘과 아키텍처](https://velog.io/@sangjinsu/%EC%84%9C%EB%B2%84-%EA%B3%BC%EB%B6%80%ED%95%98%EB%A5%BC-%EB%A7%89%EB%8A%94-%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 
 - Chapter 5: 안정 해시 설계
   - 🔗 결과물 공유:
     - o-songyii : [github링크](https://github.com/o-songyii/MyLibrary/blob/main/%EA%B0%80%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/5%EC%9E%A5/%EC%95%88%EC%A0%95%20%ED%95%B4%EC%8B%9C%20%EC%84%A4%EA%B3%84.md)
-    - sangjinsu : [🚦 서버 과부하를 막는 처리율 제한 알고리즘과 아키텍처](https://velog.io/@sangjinsu/%EC%84%9C%EB%B2%84-%EA%B3%BC%EB%B6%80%ED%95%98%EB%A5%BC-%EB%A7%89%EB%8A%94-%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+    - sangjinsu : 
 
 📌 새로운 결과물이 있으면 자유롭게 PR 또는 Issue를 이용해 추가해주세요! 🎉
 📌 누구나 자유롭게 참여할 수 있습니다! 🚀
