@@ -49,7 +49,7 @@
 - Chapter 5: 안정 해시 설계
   - 🔗 결과물 공유:
     - o-songyii : [github링크](https://github.com/o-songyii/MyLibrary/blob/main/%EA%B0%80%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/5%EC%9E%A5/%EC%95%88%EC%A0%95%20%ED%95%B4%EC%8B%9C%20%EC%84%A4%EA%B3%84.md)
-    - sangjinsu :
+    - sangjinsu : [Consistent Hashing이란? 가상 노드, Redis, 코드 예제로 쉽게 이해하기](https://velog.io/@sangjinsu/Consistent-Hashing%EC%9D%B4%EB%9E%80-%EA%B0%80%EC%83%81-%EB%85%B8%EB%93%9C-Redis-%EC%BD%94%EB%93%9C-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
     - parkminseok : [5장 - 안정 해시 설계](https://github.com/wonbanyama/study/blob/main/%EA%B0%80%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88/5%EC%9E%A5/%EC%95%88%EC%A0%95%20%ED%95%B4%EC%8B%9C%20%EC%84%A4%EA%B3%84.md)
 
 - Chapter 6: 키-값 저장소 설계
